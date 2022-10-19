@@ -43,3 +43,18 @@
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.pdb
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.genruntimeconfig.cache
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/ref/5 - Even or Odd.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/bin/Debug/net6.0/5 - Even or Odd
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/bin/Debug/net6.0/5 - Even or Odd.deps.json
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/bin/Debug/net6.0/5 - Even or Odd.runtimeconfig.json
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/bin/Debug/net6.0/5 - Even or Odd.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/bin/Debug/net6.0/5 - Even or Odd.pdb
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.csproj.AssemblyReference.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.AssemblyInfoInputs.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.AssemblyInfo.cs
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.csproj.CoreCompileInputs.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/obj/Debug/net6.0/refint/5 - Even or Odd.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.pdb
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.genruntimeconfig.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/OrtegaUMiniChallenge6/obj/Debug/net6.0/ref/5 - Even or Odd.dll
