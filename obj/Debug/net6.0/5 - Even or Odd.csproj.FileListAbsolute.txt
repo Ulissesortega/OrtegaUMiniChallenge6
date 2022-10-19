@@ -1,0 +1,45 @@
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/bin/Debug/net6.0/5 - Even or Odd
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/bin/Debug/net6.0/5 - Even or Odd.deps.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/bin/Debug/net6.0/5 - Even or Odd.runtimeconfig.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/bin/Debug/net6.0/5 - Even or Odd.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/bin/Debug/net6.0/5 - Even or Odd.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/obj/Debug/net6.0/refint/5 - Even or Odd.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Even or Odd/obj/Debug/net6.0/ref/5 - Even or Odd.dll
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/bin/Debug/net6.0/5 - Even or Odd
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/bin/Debug/net6.0/5 - Even or Odd.deps.json
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/bin/Debug/net6.0/5 - Even or Odd.runtimeconfig.json
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/bin/Debug/net6.0/5 - Even or Odd.dll
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/bin/Debug/net6.0/5 - Even or Odd.pdb
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.dll
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/obj/Debug/net6.0/refint/5 - Even or Odd.dll
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.pdb
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/obj/Debug/net6.0/5 - Even or Odd.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Homework/6 - Even or Odd/obj/Debug/net6.0/ref/5 - Even or Odd.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/bin/Debug/net6.0/5 - Even or Odd
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/bin/Debug/net6.0/5 - Even or Odd.deps.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/bin/Debug/net6.0/5 - Even or Odd.runtimeconfig.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/bin/Debug/net6.0/5 - Even or Odd.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/bin/Debug/net6.0/5 - Even or Odd.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/refint/5 - Even or Odd.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/5 - Even or Odd.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge6/obj/Debug/net6.0/ref/5 - Even or Odd.dll
